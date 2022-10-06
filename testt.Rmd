@@ -9,6 +9,12 @@ output: html_document
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
+
+Så er det weekend!
+
+
+
+
 ## R Markdown
 sdfsfsdf
 
